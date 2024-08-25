@@ -6,9 +6,6 @@ Template Typescript React Project
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2c01fcbb-9811-4e0e-b86c-e1b79e4f2c46/deploy-status)](https://app.netlify.com/sites/reactts-boilerplate/deploys)
 
 
-Demo deploy at: [reactts-boilerplate.netlify.app](https://reactts-boilerplate.netlify.app/)
-
-
 
 **This version is deprecated, It will be updated & changed soon. Learn more about  [React boiler plate](https://github.com/react-boilerplate/react-boilerplate)**
 
